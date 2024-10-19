@@ -1,5 +1,5 @@
 # 💫 About Me:
-<img src="https://github.com/yakubahmed/yakubahmed/blob/main/yakub.png" style="border-radius: 20px">
+<img src="https://github.com/yakubahmed/yakubahmed/blob/main/yakub.png" style="border-radius: 20px;">
 👋 Hi! I'm Yakub Ahmed, a passionate Full-Stack Developer with over 4 years of experience in designing, developing, and maintaining dynamic web applications. My expertise spans both front-end and back-end technologies, enabling me to create seamless user experiences and robust server-side logic.<br><br>🌍 I've worked on projects across various domains, from custom inventory management systems to web apps that integrate payment and data automation. I'm driven by curiosity, always exploring new tools and technologies to improve the way we build software.<br><br>Feel free to explore my repositories, contribute, or reach out!
 
 
